@@ -1,0 +1,74 @@
+				- Results_H_6PM.csv :
+					-NO roll number- only 'H'
+					//	MoveToDel:
+							inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_07268.jpg
+							inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_07892.jpg
+							inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_07273.jpg
+							inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_07866.jpg
+							inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_09630.jpg
+							inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_08142.jpg
+						
+					//	Keep for demo:
+							SCAN Overlap - inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_02494.jpg
+							STUD BUBBLE ERR - inputs/OMR_Files/convertedOMRs_SQ/HAUTS/H_13559.jpg
+
+				- Results_J_6PM.csv :
+					// MoveToDel - 
+						-Bad roll numbers- 
+						J503530011		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_01575.jpg	
+						J503500066		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_01595.jpg	
+						J407900033		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_11701.jpg	
+						J400700022		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_00826.jpg	
+						J206700108		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_06374.jpg	
+						J205800035		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_02383.jpg	
+						J106500004		inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_04830.jpg	
+						J385			inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_04923.jpg	
+						JE				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_01707.jpg	
+						J				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_03638.jpg	
+						J				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_08356.jpg	
+						J				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_03606.jpg	
+						J				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_03626.jpg	
+					
+					// Keep for Demo=
+						1 Bubble gone(seemingly normal)  --> J7				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_05709.jpg	
+								1 Bubble gone - 	J6				inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_12700.jpg	
+								Same bubble gone - 	J4344			inputs/OMR_Files/convertedOMRs_SQ/JUNIORS/J_08378.jpg	
+
+					- Multimarked : zero?!
+
+					Mappings for above: 
+					Mainpuri_1030/HE/Normal/Mainpuri_HE_0106.jpg --> HAUTS/H_07892.jpg
+					Vadodara_5084/HH/Normal/Vadodara_HH_0013.jpg --> HAUTS/H_07268.jpg
+					Vadodara_5084/HH/Normal/Vadodara_HH_0012.jpg --> HAUTS/H_07273.jpg
+					Mainpuri_1030/HE/Normal/Mainpuri_HE_0134.jpg --> HAUTS/H_07866.jpg
+					Rohtak_1013/HE/Normal/Rohtak_HE_0035.jpg --> HAUTS/H_09630.jpg
+					Durgapur_4137/HE/Xerox/Durgapur_HE_0001.jpg --> HAUTS/H_08142.jpg
+					Calicut_2048/HE/OS/Calicut_HE_0001.jpg --> HAUTS/H_02494.jpg
+					Jaipur_5014/HE/Normal/Jaipur_HE_0176.jpg --> HAUTS/H_13559.jpg
+					Udaipur_5035/JE/OS/Udaipur_JE_0086.jpg --> JUNIORS/J_01575.jpg
+					Udaipur_5035/JE/Normal/Udaipur_JE_0043.jpg --> JUNIORS/J_01595.jpg
+					Jamui_4079/JH/Xerox/Jamui_JH_0017.jpg --> JUNIORS/J_11701.jpg
+					Hilsa_4007/JE/Xerox/Hilsa_JE_0003.jpg --> JUNIORS/J_00826.jpg
+					Suryapet_2067/JE/Normal/Suryapet_JE_0020.jpg --> JUNIORS/J_06374.jpg
+					Karimnagar_2058/JE/Normal/Karimnagar_JE_0190.jpg --> JUNIORS/J_02383.jpg
+					Etawah_1065/JE/Normal/Etawah_JE_0003.jpg --> JUNIORS/J_04830.jpg
+					Surat_5083/JE/Xerox/Surat_JE_0272.jpg --> JUNIORS/J_04923.jpg
+					Bhagalpur_4071/JE/Xerox/Bhagalpur_JE_0005.jpg --> JUNIORS/J_01707.jpg
+					Warangal_2068/JE/normal/Warangal_2068_JE_0017.jpg --> JUNIORS/J_03638.jpg
+					Srikakulam_2034/JE/Normal/Srikakulam_JE_0011.jpg --> JUNIORS/J_08356.jpg
+					Ranchi_4111/JE/Xerox/Ranchi_JE_0003.jpg --> JUNIORS/J_03606.jpg
+					Warangal_2068/JE/normal/Warangal_2068_JE_0032.jpg --> JUNIORS/J_03626.jpg
+					Bokaro_4101/JE/Normal/Bokaro_JE_0005.jpg --> JUNIORS/J_05709.jpg
+					Indore_3027/JE/Normal/Indore_JE_0216.jpg --> JUNIORS/J_12700.jpg
+					rewari_1012/JE/Normal/rewari_JE_0049.jpg --> JUNIORS/J_08378.jpg
+More mappings 
+convertedOMRs/Jaipur_5014/HE/Normal/Jaipur_HE_0013.jpg --> convertedOMRs/HAUTS/H_13415.jpg
+convertedOMRs/Bhiwadi_5039/JE/OS/Bhiwadi_5039_JE_0071.jpg --> convertedOMRs/JUNIORS/J_14552.jpg
+
+
+New Fails:
+KEEP4EG convertedOMRs_LQ_J_05438.jpg	outputs/Manual/MultiMarkedFiles/JE/	JE101100002	4	8159
+DELETE convertedOMRs_LQ_J_05057.jpg	outputs/Manual/MultiMarkedFiles/JE/	JE103030007	4	2501
+DEL convertedOMRs_LQ_J_01087.jpg	outputs/Manual/MultiMarkedFiles/JE/	JEH0120120120120127890126789012678901267890126789
+DEL inputs/OMR_Files/convertedOMRs_LQ/JUNIORS/J_01087.jpg	JEH0120120120120127890126789012678901267890126789
+WORKING convertedOMRs_LQ_J_07309.jpg	outputs/Manual/MultiMarkedFiles/JE/	JH4077900052

@@ -1,7 +1,9 @@
-.ipynb_checkpoints/
-**/__pycache__
 **/ignore
 **/gitignore
-**/checkedOMRs
+**/CheckedOMRs
+**/convertedOMRs_LQ
 **/OMR_Files
-outputs/Results
+extras/mini_scripts/inputs/
+# outputs/Results
+outputs/Manual
+**/__pycache__
